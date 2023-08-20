@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullOperators", "Example\Nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{2B204415-4601-4F94-80FE-23664DCCBDAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading", "Overloading\Overloading.csproj", "{CA474130-2FC2-4F5F-8483-F1403E01158F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2B204415-4601-4F94-80FE-23664DCCBDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B204415-4601-4F94-80FE-23664DCCBDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B204415-4601-4F94-80FE-23664DCCBDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA474130-2FC2-4F5F-8483-F1403E01158F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA474130-2FC2-4F5F-8483-F1403E01158F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA474130-2FC2-4F5F-8483-F1403E01158F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA474130-2FC2-4F5F-8483-F1403E01158F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
