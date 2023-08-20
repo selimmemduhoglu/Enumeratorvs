@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciArray", "ArrayExam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2BoyutluDizi", "2BoyutluDizi\2BoyutluDizi.csproj", "{123EA970-86D1-46FC-85CC-602E6BFDA7E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomExample", "RandomExample\RandomExample.csproj", "{C71E2A6B-77D5-44A4-B052-12C24FD6D432}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeration", "RandomExample\Enumeration.csproj", "{C71E2A6B-77D5-44A4-B052-12C24FD6D432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullOperators", "Example\NullOperators.csproj", "{766C4F79-68A5-4429-8665-38B376AEEBD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{2B204415-4601-4F94-80FE-23664DCCBDAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{C71E2A6B-77D5-44A4-B052-12C24FD6D432}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C71E2A6B-77D5-44A4-B052-12C24FD6D432}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C71E2A6B-77D5-44A4-B052-12C24FD6D432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766C4F79-68A5-4429-8665-38B376AEEBD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766C4F79-68A5-4429-8665-38B376AEEBD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766C4F79-68A5-4429-8665-38B376AEEBD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766C4F79-68A5-4429-8665-38B376AEEBD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B204415-4601-4F94-80FE-23664DCCBDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B204415-4601-4F94-80FE-23664DCCBDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B204415-4601-4F94-80FE-23664DCCBDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B204415-4601-4F94-80FE-23664DCCBDAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
